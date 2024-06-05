@@ -1,0 +1,13 @@
+package MCQNEXTWAVE.mcq;
+
+public class Two {
+	public static void main(String[] args) {
+		final int SPEED_LIMIT = 60;
+		if(true) {
+		//	SPEED_LIMIT = 90;
+		}else {
+		//	SPEED_LIMIT = 190;
+		}
+	}
+}
+ // it showing Error Because Once Declare Final Varible Can't Change The Value 

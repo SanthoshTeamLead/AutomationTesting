@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Nextwave2.Programs&apos; to &apos;com.Nextwave.Programs&apos;&#x0D;&#x0A;- Original project: &apos;BString Programs in Java&apos;&#x0D;&#x0A;- Original element: &apos;BString Programs in Java/src/com.Nextwave2.Programs&apos;&#x0D;&#x0A;- Renamed element: &apos;BString Programs in Java/src/com.Nextwave.Programs&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Nextwave2.Programs&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.Nextwave2.Programs" name="com.Nextwave.Programs" qualified="false" references="true" stamp="1700731337594" textual="false" version="1.0"/>
+</session>

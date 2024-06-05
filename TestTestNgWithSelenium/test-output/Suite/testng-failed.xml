@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Login Details(failed)">
+    <classes>
+      <class name="TestTestNgWithSelenium.Selenium.LoginFunctionality">
+        <methods>
+          <include name="successFullyLogined"/>
+          <include name="validUserNameValidPassword"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- TestTestNgWithSelenium.Selenium.LoginFunctionality -->
+    </classes>
+  </test> <!-- Login Details(failed) -->
+</suite> <!-- Failed suite [Suite] -->

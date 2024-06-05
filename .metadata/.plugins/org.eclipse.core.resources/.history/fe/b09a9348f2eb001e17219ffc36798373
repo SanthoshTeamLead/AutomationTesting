@@ -1,0 +1,24 @@
+package MCQNEXTWAVE.mcq;
+
+public class Two {
+	public static void main(String[] args) {
+		final int SPEED_LIMIT = 60;
+		if(true) {
+		//	SPEED_LIMIT = 90;
+		}else {
+		//	SPEED_LIMIT = 190;
+		}
+		int a1 = 1;
+		System.out.println(a1);
+		int a = 10, b =9, c =8;
+		a--;
+		a += a -b ;
+		a -= ++a - --c;
+		System.out.println(a);
+		
+		
+		
+		
+	}
+}
+ // it showing Error Because Once Declare Final Varible Can't Change The Value 

@@ -1,0 +1,20 @@
+package MCQNEXTWAVE.mcq;
+
+import java.util.Arrays;
+import java.util.HashMap;
+
+public class Two {
+	public static void main(String[] args) {
+		HashMap<Integer,String> hmap = new HashMap<>();
+		hmap.put(101, "SANTHOSH");
+		hmap.put(102, "RAJU");
+		hmap.put(103, "NAGARAJU");
+		hmap.put(105, "S JEEVAN");
+		
+		System.out.println(hmap);
+		System.out.println(hmap.keySet());
+		System.out.println(hmap.values());
+		
+	}
+}
+ // it showing Error Because Once Declare Final Varible Can't Change The Value 

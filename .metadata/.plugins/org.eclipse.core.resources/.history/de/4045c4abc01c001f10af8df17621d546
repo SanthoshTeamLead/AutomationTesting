@@ -1,0 +1,9 @@
+package sampleProject;
+
+public class ClassA {
+	int a, b;
+	public static int Add(int a , int b) {
+		int sum = a + b; 
+		return sum;
+	}
+}

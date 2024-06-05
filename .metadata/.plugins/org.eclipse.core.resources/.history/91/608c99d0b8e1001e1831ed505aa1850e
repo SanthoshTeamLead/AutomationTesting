@@ -1,0 +1,9 @@
+package pavan.FAQ;
+
+public class Number_DuplicateArray{
+	public static void main(String[] args) {
+		String[] array = {"java", "c","c++","Oracle","Devops","java"};
+		int len = array.length;
+		System.out.println(len);
+	}
+}

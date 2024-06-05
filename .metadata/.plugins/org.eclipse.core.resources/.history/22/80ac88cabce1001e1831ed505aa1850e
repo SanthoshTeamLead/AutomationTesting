@@ -1,0 +1,22 @@
+package pavan.FAQ;
+
+import java.util.Scanner;
+
+public class Number_SearchingElementArray {
+		public static void main(String[] args) {
+			Scanner userinput = new Scanner(System.in);
+			int Number = userinput.nextInt();
+			int[] ArrayList = {20,10,201,30,40};
+			int len = ArrayList.length;
+			for(int i =0; i < len ; i++) {
+				if(Number == ArrayList[i]) {
+					System.out.println("Element Found");
+					}
+				else {
+					System.out.println("Element Not Found");
+				}
+				}
+			}
+			
+		}
+}

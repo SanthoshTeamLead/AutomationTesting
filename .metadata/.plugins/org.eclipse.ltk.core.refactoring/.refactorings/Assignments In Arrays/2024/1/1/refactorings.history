@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.hyr.Arrays.ArraysReplacement.java&apos; to &apos;ReplaceArray.java&apos;&#x0D;&#x0A;- Original project: &apos;Assignments In Arrays&apos;&#x0D;&#x0A;- Original element: &apos;com.hyr.Arrays.ArraysReplacement.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hyr.Arrays.ReplaceArray.java&apos;" description="Rename compilation unit &apos;ArraysReplacement.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.hyr.Arrays{ArraysReplacement.java" name="ReplaceArray.java" references="false" stamp="1704182107102" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+package pavan.FAQ;
+
+public class Number_DuplicateArray {
+		public static void main(String[] args) {
+			String [] arraylist = {"java", "c","devops","c++","oracle","java"};
+			
+			
+			for(int i = 0; i< arraylist.length; i++) {
+				
+				for(int j = i+1 ; i<arraylist.length; i++) {
+					if(arraylist[i] == arraylist[j]) {
+						System.out.println("this is Duplicate Value");
+					}
+					
+					else {
+						System.out.println("No Duplicates in Given Array");
+					}
+				}
+			}
+			
+		}
+}

@@ -1,0 +1,21 @@
+package pavan.FAQ;
+
+public class Number_DuplicateArray {
+		public static void main(String[] args) {
+			String [] arraylist = {"java", "c","devops","c++","oracle","java"};
+			
+			Boolean flag = false;
+			for(int i = 0; i< arraylist.length; i++) {
+				
+				for(int j = i+1 ; i<arraylist.length; j++) {
+					if(arraylist[i] == arraylist[j]) {
+						System.out.println("Found the Duplicate Element" + arraylist[i]);
+						flag = true;
+					}
+				}
+			}
+			if(flag == false) {
+				System.out.println("Dupicate Element Not Found ");
+			}
+		}
+}

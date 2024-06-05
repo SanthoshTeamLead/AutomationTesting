@@ -1,0 +1,13 @@
+package MCQNEXTWAVE.mcq;
+
+import java.util.Arrays;
+
+public class Two {
+	public static void main(String[] args) {
+		float runRate = 10.2564f;
+		String forStr = String.format("RunRate : %.2f", runRate);
+		System.out.println(forStr);
+		
+	}
+}
+ // it showing Error Because Once Declare Final Varible Can't Change The Value 
